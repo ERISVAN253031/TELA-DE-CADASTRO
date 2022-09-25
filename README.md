@@ -4,7 +4,7 @@
 
 ![preview](./git%20hub%2C/TELA%20CADASTRO.jpeg)
 
-Projeto Softwarer  de Academia em andamento 
+Projeto Software de Academia em andamento 
 
 
 
