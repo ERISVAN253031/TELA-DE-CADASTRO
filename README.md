@@ -1,10 +1,10 @@
-# Tela Cadastro
+# Tela Cadastro  Academia
 
 
 
 ![preview](./git%20hub%2C/TELA%20CADASTRO.jpeg)
 
-Projeto Softwarer em andamento 
+Projeto Softwarer  de Academia em andamento 
 
 
 
